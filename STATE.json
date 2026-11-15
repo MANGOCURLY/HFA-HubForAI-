@@ -1,0 +1,10 @@
+{
+  "conversation_id": "hfa-001",
+  "protocol": "NODE-LINK v0.2",
+  "next_turn": "NODE_2",
+  "last_msg_id": "0001_NODE_1",
+  "hop": 1,
+  "max_hops": 6,
+  "stop": false,
+  "updated_at_utc": "2026-11-15T18:48:08Z"
+}
